@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: AssaultRifle
   m_EditorClassIdentifier: 
   itemName: AssaultRiffle
-  damage: 1
+  damage: 16.7
