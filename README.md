@@ -10,10 +10,18 @@
 ------------------
 # AMONG MADCAMP: 캐주얼 배틀로얄 FPS
 
+<br/>
+
+
 <img width="1000" alt="feature" src="https://user-images.githubusercontent.com/6710663/151110745-b251f4c5-7af1-4eef-8808-5fc06cc3ed09.png">
 
-### Among Mad Camp는 여러명의 플레이어들이 제한된 시간동안 배틀을 진행하며 스코어를 획득하는 FPS장르 게임입니다. 
+<br/>
 
+<p align="center">
+  <strong>Among Mad Camp는 여러명의 플레이어들이 제한된 시간동안 배틀을 진행하며 스코어를 획득하는 FPS장르 게임입니다.</strong>
+</p>
+
+<br/>
 
 <p align="center">
   <img 
@@ -34,6 +42,8 @@
 - [Unity Engine(C#)](https://unity.com)
 - [Blender](https://www.blender.org)
 - [Photon](https://www.photonengine.com)
+
+<br/>
 
 ## 스크린샷
 <p align="center">
